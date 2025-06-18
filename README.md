@@ -1,5 +1,4 @@
 # Natural-Language-Processing-with-Deep-Learning
-
 Master's level coursework from Natural Language Processing with Deep Learning module featuring comprehensive neural network implementation, comparative model analysis, advanced text preprocessing pipelines, and deep learning optimization techniques. Demonstrates technical proficiency in NLP while addressing critical ethical issues including algorithmic bias, content moderation transparency, and responsible AI deployment in information integrity contexts.
 
 ## Projects Overview
